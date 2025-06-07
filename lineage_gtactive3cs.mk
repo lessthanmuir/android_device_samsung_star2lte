@@ -34,7 +34,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_gtactive3cs
 PRODUCT_DEVICE := gtactive3cs
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G965F
+PRODUCT_MODEL := SM-T577W
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
