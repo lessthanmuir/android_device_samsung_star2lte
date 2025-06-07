@@ -27,7 +27,7 @@ fi
 
 set -e
 
-export DEVICE=star2lte
+export DEVICE=gtactive3cs
 export DEVICE_COMMON=exynos9810-common
 export VENDOR=samsung
 
